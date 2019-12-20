@@ -1,2 +1,3 @@
 # hello-world
-Place where I store ideas resources for the future
+
+This is a simple V.1 of a startup landing page.
