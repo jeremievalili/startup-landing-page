@@ -22,6 +22,11 @@ hr {
     
 }
 
+.white {
+    background-color: #E2DBDB;
+    color: aqua;
+}
+
 
 .buffer {
     height: 10rem;
